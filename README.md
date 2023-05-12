@@ -4,7 +4,7 @@ Hi my name is Nick Hughes
 Full stack web developer
 ------------------------
 I'm a business change project manager in financial services turned web developer. I love problem solving and working with great people to deliver user focused solutions.
-Seeking a way in to the tech industry, I applied to the School of Code and was selected as one of ~130 from an applicant list of 3000 to attend their 16 week intensive full stack bootcamp. The pace of learning was intense and I have gone from never writing a line of code to building full stack applications that are responsive and user-focused.
+Seeking a way in to the tech industry, I applied to the School of Code and was selected as 1 of ~130 from an applicant list of over 3000 to attend their 16 week intensive full stack bootcamp. The pace of learning was intense and I have gone from never writing a line of code to building full stack applications that are responsive and user-focused.
 
 As technology helps us to understand, shape and grow the world around us, as a junior developer I’m excited to be a part of the future
 
