@@ -1,14 +1,12 @@
-Hi My name is Nick Hughes 
+Hi my name is Nick Hughes 
 ===================================================================================================================================
 
 Full stack web developer
 ------------------------
+I'm a business change project manager in financial services turned web developer. I love problem solving and working with great people to deliver user focused solutions.
+Seeking a way in to the tech industry, I applied to the School of Code and was selected as one of ~130 from an applicant list of 3000 to attend their 16 week intensive full stack bootcamp. The pace of learning was intense and I have gone from never writing a line of code to building full stack applications that are responsive and user-focused.
 
-I'm a full stack web developer seeking my first developer role. I have a diverse background spanning retail, adventure tourism, events management, project management and residential construction. 
-
-What I love is problem solving, working with cool people, doing cool things. Fascinated by the magic of coding, when I learned that bootcamps are a valid way in to the tech industry I had to try, so signed up to the School of Code, an intensive 16 week full stack bootcamp. Having never written a line of code before, the learning curve was steep but I can now draw upon all the experience from my career to date and build full stack, responsive websites that focus on user interaction.
-
-I don't know the future. I don't know where this will end. School of Code showed me where to begin.....and I will continue to learn and grow, as anything is possible.
+As technology helps us to understand, shape and grow the world around us, as a junior developer I’m excited to be a part of the future
 
 - 🌱 I'm currently working on : building my portfolio using three.js, react-three/fibre, vite
 - 🌱 I'm currently working on : developing my CSS skills
