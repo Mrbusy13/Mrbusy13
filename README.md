@@ -8,7 +8,8 @@ Seeking a way in to the tech industry, I applied to the School of Code and was s
 
 As technology helps us to understand, shape and grow the world around us, as a junior developer I’m excited to be a part of the future
 
-- 🌱 I'm currently working on : building my portfolio using three.js, react-three/fibre, vite
+- 🌱 I've recently finished : building my portfolio;  a react application built with Vite and Tyescript, styled with Tailwind and 3d elements added using three.js and react-three/fibre
+- 🌱 I'm currently working on : building an ecommerce store with admin page using Next, Next-Auth, Postgres and Prisma
 - 🌱 I'm currently working on : developing my CSS skills
 - 🌱 I'm currently working on : building a coffee shop locator using react native, express backend with mongodb
 
