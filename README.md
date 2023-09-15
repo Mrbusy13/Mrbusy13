@@ -14,7 +14,7 @@ As technology helps us to understand, shape and grow the world around us, as a j
 - 🌱 I'm currently working on : building a coffee shop locator using react native, express backend with mongodb
 
 - ⚡ Fun fact: I'm awesome
-- ⚡ When I'm not coding, I love rock climbing, mountain biking and road biking. Good coffee is an essential part of life as is good patisserie and bread. My kids love pizza so we have a weekly pizza night with my freshly made dough  :pizza:. 
+- ⚡ When I'm not coding, I love rock climbing, mountain biking and road biking. Good coffee is an essential part of life as is good patisserie and bread. 
 
 
 * 🌍  I'm based in Sheffield, UK
